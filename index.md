@@ -9,13 +9,13 @@ Research laboratory at Masaryk University, Faculty of Medicine.
 ## Our mission
 We aim to understand how human tissues develop, change over time, and regenerate in health and disease.
 
+## Our research
+
+Our lab studies how human tissues respond to stress and disease. We develop new models of human lung and pancreatic diseases to better understand how diseases develop and how tissues repair themselves. We investigate how cells communicate, adapt, and contribute to tissue recovery or disease progression.
+
+Using advanced imaging and biological technologies, we study changes in cells and tissues that occur during disease. Our goal is to connect basic biological discoveries with better understanding and future treatment of human diseases, such as lung fibrosis and pancreatic cancer.
+
+
 <img src="/assets/images/nkx21-pdpn_ldci.jpg" alt="Lung epithelial spheroid" class="center-image">   
 
 <em>Stem cells-derived lung spheroid composed of alveolar epithelium positive for NKX2.1 (green) and podoplanin (red). Cell nuclei are in blue.</em>
-
-## Our research
-
-Our lab investigates how human lung and pancreatic tissues respond to cellular stress and disease. We develop advanced experimental models to understand disease development and uncover mechanisms that regulate tissue repair and regeneration. Our research focuses on how cellular stress responses influence tissue plasticity, epithelial regeneration, and progenitor cell differentiation in normal and diseased tissues.
-
-To address these questions, we combine advanced imaging approaches, including super-resolution and live-cell microscopy, with molecular, bioanalytical, and histological techniques. We also develop innovative approaches for cellular profiling and phenotyping based on whole-cell mass spectrometry and chemometric analysis, enabling detailed characterization of disease-associated changes at the cellular level.
-
