@@ -8,7 +8,7 @@ layout: default
 Research laboratory at Masaryk University, Faculty of Medicine.
 
 ## Our mission
-We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
+We aim to understand how human tissues develop, change over time, and regenerate in health and disease.
 
 <img src="/assets/images/nkx21-pdpn_ldci.jpg" alt="Lung epithelial spheroid" class="center-image">   
 
@@ -16,4 +16,7 @@ We aim to elucidate biological mechanism driving tissue regeneration in health a
 
 ## Our research
 
-Our lab investigates the role of the endoplasmic reticulum (ER) in the plasticity and regeneration of both normal and diseased epithelial tissues of lungs and pancreas. We study how canonical and non-canonical ER signaling pathways influence tissue responses to various forms of cellular stress, and how these responses drive tissue regeneration and progenitor cell differentiation across multiple epithelial systems, specifically, in the lung alveoli. Our research involves state-of-the-art microscopy techniques, including super-resolution and live-cell imaging, along with a range of molecular, bioanalytical, and histological methods. Additionally, we develop cutting-edge bioanalytical approaches for cell profiling and phenotyping, using whole-cell mass spectrometry and chemometrics.
+Our lab investigates how human lung and pancreatic tissues respond to cellular stress and disease. We develop advanced experimental models to understand disease development and uncover mechanisms that regulate tissue repair and regeneration. Our research focuses on how cellular stress responses influence tissue plasticity, epithelial regeneration, and progenitor cell differentiation in normal and diseased tissues.
+
+To address these questions, we combine advanced imaging approaches, including super-resolution and live-cell microscopy, with molecular, bioanalytical, and histological techniques. We also develop innovative approaches for cellular profiling and phenotyping based on whole-cell mass spectrometry and chemometric analysis, enabling detailed characterization of disease-associated changes at the cellular level.
+
