@@ -4,7 +4,7 @@ title: Contact
 ---
 
 **doc. RNDr. Petr Vaňhara, Ph. D.**
-
+[![ORCID](/assets/images/orcid.logo.icon.svg)]([https://odkaz-kam-chcete.cz](https://orcid.org/0000-0002-7470-177Xhttps://orcid.org/0000-0002-7470-177X))
 <img src="/assets/images/orcid.logo.icon.svg" alt="ORCID">  
 https://orcid.org/0000-0002-7470-177Xhttps://orcid.org/0000-0002-7470-177X
 
