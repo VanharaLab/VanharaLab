@@ -104,16 +104,16 @@ for article in root.findall(".//PubmedArticle"):
         default=""
     )
 
-print(
-    year,
-    title,
-    journal,
-    volume,
-    issue,
-    pages,
-    doi,
-    pmid
-)
+    print(
+        year,
+        title,
+        journal,
+        volume,
+        issue,
+        pages,
+        doi,
+        pmid
+    )
     
     publications.append(
         {
