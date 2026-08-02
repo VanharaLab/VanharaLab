@@ -2,12 +2,9 @@
 layout: home
 ---
 
-Research laboratory focused on cell plasticity and tissue regeneration in health and disease.
-
-
 ## Tissue Plasticity & Regeneration
 
-Research laboratory at Masaryk University, Faculty of Medicine.
+Research laboratory at Masaryk University, Faculty of Medicine
 ---
 
 ## Research
