@@ -1,14 +1,12 @@
 ---
 layout: home
-
 ---
 
-### Tissue Plasticity & Regeneration
----
-Research laboratory at Masaryk University, Faculty of Medicine
----
+# Tissue Plasticity & Regeneration
 
-### Research
+Research laboratory at Masaryk University, Faculty of Medicine.
+
+## Research
 
 We investigate mechanisms underlying:
 
@@ -17,9 +15,7 @@ We investigate mechanisms underlying:
 - developmental processes
 - disease-associated changes
 
----
-
-### Navigation
+## Navigation
 
 - [Research](research.md)
 - [Publications](publications.md)
