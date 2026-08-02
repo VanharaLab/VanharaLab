@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import requests
 import yaml
 import xml.etree.ElementTree as ET
@@ -136,8 +138,13 @@ publications.sort(
 )
 
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+OUTPUT = BASE_DIR / "_data" / "publications.yml"
+
+print(f"Saving publications to: {OUTPUT}")
+
 with open(
-    "_data/publications.yml",
+    OUTPUT,
     "w",
     encoding="utf-8"
 ) as f:
