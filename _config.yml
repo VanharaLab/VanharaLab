@@ -1,11 +1,18 @@
 title: "Petr Vaňhara Laboratory"
 
-description: >
-  Research laboratory focused on cell plasticity
-  and tissue regeneration in health and disease.
+description: "Research laboratory at Masaryk University, Faculty of Medicine"
 
 theme: minima
 
-
-
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+minima:
+  nav_pages:
+    - research.md
+    - publications.md
+    - team.md
+    - projects.md
+    - contact.md
