@@ -9,10 +9,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-minima:
-  nav_pages:
-    - research.md
-    - publications.md
-    - team.md
-    - projects.md
-    - contact.md
+header_pages:
+  - research.md
+  - publications.md
+  - team.md
+  - projects.md
+  - contact.md
