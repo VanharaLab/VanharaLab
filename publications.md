@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: PubMed publications
 ---
 
 {% assign current_year = "" %}
