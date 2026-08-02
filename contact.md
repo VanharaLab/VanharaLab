@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact
+---
+
 Masaryk University | Faculty of Medicine
 
 Department of Histology and Embryology
