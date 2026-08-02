@@ -6,8 +6,7 @@ description: >
 
 theme: minima
 
-author:
-  name: "Petr Vaňhara Laboratory"
+author: "Petr Vaňhara Laboratory"
 
 markdown: kramdown
 
