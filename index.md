@@ -1,12 +1,13 @@
-# Petr Vaňhara Laboratory
+---
+layout: home
+---
+
+Research laboratory focused on cell plasticity and tissue regeneration in health and disease.
+
 
 ## Tissue Plasticity & Regeneration
 
 Research laboratory at Masaryk University, Faculty of Medicine.
-
-Our research focuses on cellular plasticity, tissue regeneration
-and molecular mechanisms controlling cell fate decisions.
-
 ---
 
 ## Research
