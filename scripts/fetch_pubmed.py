@@ -155,6 +155,8 @@ with open(
         sort_keys=False
     )
 
+print(f"File exists: {OUTPUT.exists()}")
+print(f"File size: {OUTPUT.stat().st_size} bytes")
 
 print(
     f"Saved {len(publications)} publications"
