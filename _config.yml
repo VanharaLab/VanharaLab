@@ -11,7 +11,6 @@ plugins:
 
 minima:
   nav_pages:
-    - research.md
     - publications.md
     - team.md
     - projects.md
