@@ -9,6 +9,7 @@ Research laboratory at Masaryk University, Faculty of Medicine.
 
 ## Our mission
 We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
+<img src="/assets/images/nkx21-pdpn_ldci.jpg" alt="Lung epithelial spheroid" style="max-width:900px;">
 
 ## Our research
 
