@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: News
 ---
 <b>June 2026: Funding awarded for innovative pancreatic cancer research</b>  
