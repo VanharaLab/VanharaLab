@@ -4,7 +4,7 @@ layout: home
 ---
 
 ### Tissue Plasticity & Regeneration
-
+---
 Research laboratory at Masaryk University, Faculty of Medicine
 ---
 
