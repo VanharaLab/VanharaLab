@@ -9,7 +9,7 @@ ORCID 0000-0002-7470-177X <a href="https://orcid.org/0000-0002-7470-177X">
 </a>
   
 
-Faculty of Medicine, Masaryk University. 
+Faculty of Medicine, Masaryk University   
 Department of Histology and Embryology  
 Research Group "Tissue plasticity and regeneration"  
 
