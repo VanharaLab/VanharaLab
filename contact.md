@@ -14,11 +14,10 @@ Research Group "Tissue plasticity and regeneration"
 
 
 
+📍 Kamenice 126/3, 625 00 Brno, Czech Republic,
 
-Address: Kamenice 126/3, 625 00 Brno, Czech Republic,
-
-Phone: +420 549 497 780 
+Tel.: +420 549 497 780 
 
 E-mail: pvanhara@med.muni.cz  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1472.297831740188!2d16.57312562373343!3d49.177274669544886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471295c71020c539%3A0x162698392664e5fa!2sKamenice%20126%2F3%2C%20625%2000%20Brno-Bohunice!5e0!3m2!1scs!2scz!4v1785686242962!5m2!1scs!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=16.57200694084168%2C49.17665725125871%2C16.574340462684635%2C49.177849574532004&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/49.177253/16.573174">Zobrazit větší mapu</a></small>
