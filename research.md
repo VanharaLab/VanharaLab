@@ -2,8 +2,9 @@
 layout: page
 title: Research
 ---
-## Research focus ##
-We are particularly interested in development of near-to-native tissue model mirroring pathological conditions.
+## Clinical relevance ##
+We are particularly interested in development of near-to-native tissue model mirroring pathological conditions.  
+
 Lung fibrosis is a devastating disease in which the delicate lung architecture is progressively replaced by fibrotic tissue, leading to loss of pulmonary functions. We investigate the mechanisms regulating lung epithelial plasticity and regeneration during disease progression. In collaboration with the Clinic of Respiratory Diseases and Tuberculosis, University Hospital Brno, we develop patient-specific models of interstitial lung diseases using induced pluripotent stem cells (iPSCs) reprogrammed from peripheral blood mononuclear cells of patients with pulmonary fibrosis. These iPSCs are differentiated into early lung epithelial progenitor (ELEP) models to study disease-associated cellular responses, epithelial dysfunction, and impaired regenerative capacity.
 
 Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with extremely poor prognosis and limited survival. The disease is characterized by extensive desmoplastic stroma formation, which replaces normal pancreatic tissue and creates a tumor microenvironment that promotes disease progression and therapy resistance. In collaboration with the Surgery Clinic and the Department of Pathology, University Hospital Brno, we develop patient-derived models based on clinically characterized PDAC samples. Using a unique PDAC biobank of stromal cells and associated clinical data, we investigate how tumor–stroma interactions, extracellular matrix (ECM) organization, and biomechanical properties of the tumor microenvironment influence disease progression and treatment response.
