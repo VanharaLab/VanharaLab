@@ -36,5 +36,5 @@ Master student
 **Vítězslav Havlíček**    🇨🇿
 MD student
 
-**Lukáš Jan**.   🇨🇿
+**Lukáš Jan**   🇨🇿
 MD student
