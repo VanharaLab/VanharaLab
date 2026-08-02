@@ -1,1 +1,30 @@
+---
+---
 
+@import "minima";
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #eeeeee;
+  min-height: 50px;
+}
+
+.site-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.site-nav a {
+  font-size: 0.9rem;
+  margin-left: 1.2rem;
+}
+
+.page-content p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.site-footer {
+  text-align: center;
+  font-size: 0.85rem;
+}
