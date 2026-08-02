@@ -5,7 +5,7 @@ title: Publications
 
 ## Publications
 
-{% raw %}
+
 {% for pub in site.data.publications %}
 
 ### {{ pub.year }}
