@@ -29,15 +29,15 @@ jobs:
         run: |
           python scripts/fetch_pubmed.py
 
-      - name: Commit updated publications
-        run: |
+     - name: Commit updated publications
+       run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add _data/publications.yml
 
-          git diff --quiet && exit 0
-
+          git diff --cached --quiet && exit 0
+      
           git commit -m "Update PubMed publications"
-
+      
           git push
