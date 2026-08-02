@@ -10,9 +10,9 @@ Research laboratory at Masaryk University, Faculty of Medicine.
 ## Our mission
 We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
 
-<img src="/assets/images/nkx21-pdpn_ldci.jpg" alt="Lung epithelial spheroid" style="max-width:600px;">   
+<img src="/assets/images/nkx21-pdpn_ldci.jpg" alt="Lung epithelial spheroid" style="max-width:650px;">   
 
-<em>Stem cells-derived lung spheroid composed of alveolar epithelium positive for NKX2.1 and podoplanin.</em>
+<em>Stem cells-derived lung spheroid composed of alveolar epithelium positive for NKX2.1 (green) and podoplanin (red). Cell nuclei are in blue.</em>
 
 ## Our research
 
