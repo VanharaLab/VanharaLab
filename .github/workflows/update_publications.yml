@@ -1,7 +1,12 @@
-name: Update ORCID publications
+name: Update PubMed publications
 
 on:
+  schedule:
+    - cron: "0 6 * * 1"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -11,18 +16,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Python packages
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
         run: |
           pip install requests pyyaml
 
-      - name: Fetch ORCID publications
+      - name: Fetch PubMed publications
         run: |
-          python scripts/fetch_orcid.py
+          python scripts/fetch_pubmed.py
 
       - name: Commit updated publications
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.email "github-actions@github.com"
+
           git add _data/publications.yml
-          git commit -m "Update ORCID publications" || exit 0
+
+          git diff --quiet && exit 0
+
+          git commit -m "Update PubMed publications"
+
           git push
