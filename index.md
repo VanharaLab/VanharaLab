@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Petr Vaňhara
+## Petr Vaňhara Research Group: 
 ## Tissue Plasticity & Regeneration
 
 Research laboratory at Masaryk University, Faculty of Medicine.
