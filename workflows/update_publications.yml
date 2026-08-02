@@ -1,1 +1,28 @@
+name: Update ORCID publications
 
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Python packages
+        run: |
+          pip install requests pyyaml
+
+      - name: Fetch ORCID publications
+        run: |
+          python scripts/fetch_orcid.py
+
+      - name: Commit updated publications
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add _data/publications.yml
+          git commit -m "Update ORCID publications" || exit 0
+          git push
