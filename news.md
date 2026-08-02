@@ -1,1 +1,3 @@
+<b>June 2026: We received funding from the [IOBC Foundation](https://iocbfoundation.cz/en/projects/117/voucher-program-to-bridge-funding-gaps-in-clinical-research) Voucher Program "to bridge funding gaps in clinical research"!</b>   
 
+Using Atomic Force Microscopy (AFM) we will investigate, whether biomechanical properties of PDAC can provide clinically relevant information, such as risk of early relapse or survival prognosis. Here we will closely cooperate with colleagues from [Nanobiotechnology Core Facility of CEITEC MU](https://www.ceitec.eu/nanobiotechnology-core-facility/cf104) and Surgery Clinic and Department of Pathology of [University Hospital Brno](https://www.fnbrno.cz/en/the-university-hospital-brno/t1000).  
