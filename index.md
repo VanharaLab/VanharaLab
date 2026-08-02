@@ -1,7 +1,11 @@
 ---
-layout: home
-title: VanharaLab
+layout: page
 ---
+
+# Tissue Plasticity & Regeneration
+
+Research laboratory at Masaryk University, Faculty of Medicine.
+
 ## Our mission
 We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
 
