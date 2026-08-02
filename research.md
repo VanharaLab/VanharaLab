@@ -8,6 +8,8 @@ Lung fibrosis is a devastating disease in which the delicate lung architecture i
 
 Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with extremely poor prognosis and limited survival. The disease is characterized by extensive desmoplastic stroma formation, which replaces normal pancreatic tissue and creates a tumor microenvironment that promotes disease progression and therapy resistance. In collaboration with the Surgery Clinic and the Department of Pathology, University Hospital Brno, we develop patient-derived models based on clinically characterized PDAC samples. Using a unique PDAC biobank of stromal cells and associated clinical data, we investigate how tumor–stroma interactions, extracellular matrix (ECM) organization, and biomechanical properties of the tumor microenvironment influence disease progression and treatment response.
 
+<img src="/assets/images/sox9-sox2_ldci.jpg" alt="Lung epithelial spheroid" class="center-image">  
+
 ## Technology ##
 Our research combines advanced microscopy approaches, including super-resolution and live-cell imaging, with molecular, bioanalytical, and histological techniques. We routinely use human pluripotent stem cells, including embryonic (hESCs) and induced pluripotent stem cells (iPSCs), as platforms for directed cell differentiation and disease modeling. Additionally, we develop bioanalytical approaches for cellular profiling and phenotyping based on whole-cell mass spectrometry and chemometric analysis.
 
