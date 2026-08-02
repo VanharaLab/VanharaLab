@@ -4,7 +4,7 @@ import yaml
 
 ORCID_ID = "0000-0002-7470-177X"
 
-url = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
+url = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works?rows=200"
 
 headers = {
     "Accept": "application/json"
