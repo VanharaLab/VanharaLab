@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: VanharaLab
 ---
 ## Our mission
 We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
