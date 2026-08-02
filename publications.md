@@ -3,9 +3,6 @@ layout: page
 title: Publications
 ---
 
-## Publications
-
-
 {% for pub in site.data.publications %}
 
 ### {{ pub.year }}
@@ -15,4 +12,3 @@ title: Publications
 ---
 
 {% endfor %}
-{% endraw %}
