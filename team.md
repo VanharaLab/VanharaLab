@@ -2,35 +2,37 @@
 layout: page
 title: Team members
 ---
+**doc. RNDr. Petr Vaňhara, Ph. D.**  🇨🇿  
+Group leader  
 
-**Mgr. Jarmila Harůdková, Ph.D.**    🇸🇰
-post doc
+**Mgr. Jarmila Herůdková, Ph.D.**    🇸🇰  
+Post doc
 
-**Aćimović, Ivana, M.Sc., Ph.D.**    🇷🇸
-post doc
+**Aćimović, Ivana, M.Sc., Ph.D.**    🇷🇸  
+Post doc
 
-**Mgr. Vendula Pelková**    🇨🇿
-staff researcher
+**Mgr. Vendula Pelková**    🇨🇿  
+Staff researcher
 
-**Mgr. Kateřina Vašíčková, Ph.D.**    🇨🇿
-staff researcher
+**Mgr. Kateřina Vašíčková, Ph.D.**    🇨🇿  
+Staff researcher
 
-**Mgr. Lukáš Moráň**    🇨🇿
-staff researcher
+**Mgr. Lukáš Moráň**    🇨🇿  
+Staff researcher
 
-**Turkan Portakal, M.Sc.**    🇹🇷
+**Turkan Portakal, M.Sc.**    🇹🇷  
 PhD student
 
-**RNDr. Petra Weselá**    🇸🇰
+**RNDr. Petra Weselá**    🇸🇰  
 PhD student
 
-**Bc. Adéla Brzičová**    🇨🇿
+**Bc. Adéla Brzičová**    🇨🇿  
 Master student
 
-**Bc. Jaromíra Pantůčková**    🇨🇿
+**Bc. Jaromíra Pantůčková**    🇨🇿  
 Master student
 
-**Nilay Yüksel**   🇹🇷
+**Nilay Yüksel**   🇹🇷  
 Master student
 
 **Vítězslav Havlíček**    🇨🇿
