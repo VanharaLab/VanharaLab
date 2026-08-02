@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Tissue Plasticity & Regeneration
+## Petr Vaňhara
+## Tissue Plasticity & Regeneration
 
 Research laboratory at Masaryk University, Faculty of Medicine.
 
