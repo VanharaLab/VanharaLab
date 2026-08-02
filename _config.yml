@@ -8,10 +8,3 @@ baseurl: ""
 
 plugins:
   - jekyll-feed
-
-header_pages:
-  - research.md
-  - publications.md
-  - team.md
-  - projects.md
-  - contact.md
