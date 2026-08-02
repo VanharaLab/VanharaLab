@@ -1,16 +1,17 @@
 ## Hi there 👋
+# This is VanharaLab Website
 
-<!--
-**VanharaLab/VanharaLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official website source code for Petr Vaňhara Laboratory.
 
-Here are some ideas to get you started:
+## Purpose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Academic presentation website including:
+- research activities
+- publications
+- team information
+- projects
+- contact information
+
+## Technology
+
+Built with GitHub Pages and Jekyll.
