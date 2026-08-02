@@ -1,8 +1,3 @@
----
-layout: home
-title: Petr Vaňhara Laboratory
----
-
 # Petr Vaňhara Laboratory
 
 ## Tissue Plasticity & Regeneration
@@ -18,7 +13,7 @@ and molecular mechanisms controlling cell fate decisions.
 
 We investigate mechanisms underlying:
 
-- cellular adaptation
+- cellular plasticity
 - tissue regeneration
 - developmental processes
 - disease-associated changes
@@ -31,5 +26,4 @@ We investigate mechanisms underlying:
 - [Publications](publications.md)
 - [Team](team.md)
 - [Projects](projects.md)
-- [News](news.md)
 - [Contact](contact.md)
