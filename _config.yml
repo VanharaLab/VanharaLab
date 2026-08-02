@@ -6,9 +6,6 @@ description: >
 
 theme: minima
 
-author: "Petr Vaňhara Laboratory"
+
 
 markdown: kramdown
-
-plugins:
-  - jekyll-feed
