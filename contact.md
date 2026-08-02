@@ -3,7 +3,9 @@ layout: page
 title: Contact
 ---
 
-**doc. RNDr. Petr Vaňhara, Ph. D.**
+**doc. RNDr. Petr Vaňhara, Ph. D.**. 
+
+
 [![ORCID](/assets/images/orcid.logo.icon.svg)](https://orcid.org/0000-0002-7470-177X)
   
 https://orcid.org/0000-0002-7470-177Xhttps://orcid.org/0000-0002-7470-177X
