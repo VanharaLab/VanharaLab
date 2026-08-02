@@ -1,5 +1,6 @@
 ---
 layout: default
+title: News
 ---
 <b>June 2026: Funding awarded for innovative pancreatic cancer research</b>  
 We received funding from the [IOBC Foundation](https://iocbfoundation.cz/en/projects/117/voucher-program-to-bridge-funding-gaps-in-clinical-research) Voucher Program to bridge funding gaps in clinical research.   
