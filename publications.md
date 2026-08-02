@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 # Publications
 
 {% assign current_year = "" %}
