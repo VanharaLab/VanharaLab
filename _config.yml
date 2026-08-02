@@ -1,10 +1,10 @@
 title: "Petr Vaňhara Laboratory"
-
 description: "Research laboratory at Masaryk University, Faculty of Medicine"
-
 theme: minima
-
 markdown: kramdown
+
+url: "https://vanharalab.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-feed
