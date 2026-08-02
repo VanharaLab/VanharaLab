@@ -27,11 +27,6 @@ for group in data.get("group", []):
         .get("value", "")
     )
 
-    journal = ""
-
-    if work.get("journal-title"):
-        journal = work["journal-title"]["value"]
-
     year = ""
 
     if work.get("publication-date"):
@@ -40,6 +35,11 @@ for group in data.get("group", []):
             .get("year", {})
             .get("value", "")
         )
+
+    journal = ""
+
+    if work.get("journal-title"):
+        journal = work["journal-title"].get("value", "")
 
     publications.append(
         {
@@ -66,17 +66,4 @@ with open("_data/publications.yml", "w", encoding="utf-8") as file:
     )
 
 
-print(f"Updated {len(publications)} publications")    key=lambda x: x["year"],
-    reverse=True
-)
-
-
-with open("_data/publications.yml", "w", encoding="utf-8") as f:
-    yaml.dump(
-        works,
-        f,
-        allow_unicode=True,
-        sort_keys=False
-    )
-
-print("Publications updated.")
+print(f"Updated {len(publications)} publications")
