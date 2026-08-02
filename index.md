@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Research
 ---
-## Research
 
 We investigate mechanisms underlying:
 
