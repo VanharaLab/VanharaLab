@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Our mission
 ---
-## Mission
 
 We aim to elucidate biological mechanism driving tissue regeneration in health and disease.
 
