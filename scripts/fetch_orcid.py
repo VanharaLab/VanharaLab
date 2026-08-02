@@ -1,6 +1,7 @@
 import requests
 import yaml
 
+
 ORCID_ID = "0000-0002-7470-177X"
 
 url = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
@@ -10,31 +11,62 @@ headers = {
 }
 
 response = requests.get(url, headers=headers)
+response.raise_for_status()
 
 data = response.json()
 
-works = []
+publications = []
 
-for group in data["group"]:
-    summary = group["work-summary"][0]
+for group in data.get("group", []):
 
-    title = summary["title"]["title"]["value"]
+    work = group["work-summary"][0]
+
+    title = (
+        work.get("title", {})
+        .get("title", {})
+        .get("value", "")
+    )
+
+    journal = ""
+
+    if work.get("journal-title"):
+        journal = work["journal-title"]["value"]
 
     year = ""
 
-    if summary.get("publication-date"):
-        year = summary["publication-date"]["year"]["value"]
+    if work.get("publication-date"):
+        year = (
+            work["publication-date"]
+            .get("year", {})
+            .get("value", "")
+        )
 
-    works.append({
-        "title": title,
-        "year": year
-    })
+    publications.append(
+        {
+            "title": title,
+            "year": year,
+            "journal": journal
+        }
+    )
 
 
-# nejnovější první
-works = sorted(
-    works,
-    key=lambda x: x["year"],
+# řazení od nejnovějších
+publications.sort(
+    key=lambda x: int(x["year"]) if x["year"] else 0,
+    reverse=True
+)
+
+
+with open("_data/publications.yml", "w", encoding="utf-8") as file:
+    yaml.dump(
+        publications,
+        file,
+        allow_unicode=True,
+        sort_keys=False
+    )
+
+
+print(f"Updated {len(publications)} publications")    key=lambda x: x["year"],
     reverse=True
 )
 
