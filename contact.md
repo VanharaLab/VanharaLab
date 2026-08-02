@@ -5,6 +5,7 @@ title: Contact
 
 **doc. RNDr. Petr Vaňhara, Ph. D.**
 
+<img src="/assets/images/orcid.logo.icon.svg" alt="ORCID">  
 https://orcid.org/0000-0002-7470-177Xhttps://orcid.org/0000-0002-7470-177X
 
 Masaryk University, Faculty of Medicine
