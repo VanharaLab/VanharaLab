@@ -1,1 +1,15 @@
+title: "Petr Vaňhara Laboratory"
 
+description: >
+  Research laboratory focused on tissue plasticity,
+  regeneration and cellular adaptation.
+
+theme: minima
+
+author:
+  name: "Petr Vaňhara Laboratory"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
