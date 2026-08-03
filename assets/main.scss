@@ -41,3 +41,37 @@ html, body {
     max-width: 100%;
     overflow-x: auto;
 }
+.site-header .wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.site-title {
+  flex: 1 1 auto;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.site-nav a {
+  margin-left: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header .wrapper {
+    display: block;
+  }
+
+  .site-nav {
+    margin-top: 1rem;
+  }
+
+  .site-nav a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
