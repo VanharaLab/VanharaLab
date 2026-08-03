@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ### Selected research projects (PI only) ###  
-**Desmoplastic reaction in PDAC as a digital biomarker: from clinical sample to AI-ready dataset**   
+**Desmoplastic reaction in PDAC as a digital biomarker: from a clinical sample to AI-ready dataset**   
 6/2026 — 5/2027  
 Investor: [IOCB Foundation](https://www.uochb.cz/en/iocb-foundation), Czech Republic   
 
