@@ -75,3 +75,52 @@ html, body {
     margin: 0.5rem 0;
   }
 }
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-nav a {
+  margin-left: 0;
+}
+
+/* odstranění chování minima */
+.site-nav .trigger {
+  display: flex;
+}
+
+/* mobil */
+@media screen and (max-width: 600px) {
+
+  .site-header .wrapper {
+    display: block;
+  }
+
+  .site-nav {
+    position: static;
+    float: none;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin-top: 1rem;
+    border: none;
+    background: transparent;
+  }
+
+  .site-nav .trigger {
+    display: block;
+  }
+
+  .site-nav a {
+    display: inline-block;
+    margin: 0.3rem 0.8rem 0.3rem 0;
+  }
+}
