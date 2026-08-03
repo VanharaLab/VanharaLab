@@ -1,34 +1,20 @@
-.site-header .wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
+<header class="site-header">
 
-.site-title {
-  flex: 1 1 auto;
-}
+  <div class="wrapper">
 
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
-}
+    <a class="site-title" href="{{ "/" | relative_url }}">
+      {{ site.title }}
+    </a>
 
-.site-nav a {
-  margin-left: 0;
-}
+    <nav class="site-nav">
+      <a href="{{ "/news" | relative_url }}">News</a>
+      <a href="{{ "/research" | relative_url }}">Research</a>
+      <a href="{{ "/publications" | relative_url }}">Publications</a>
+      <a href="{{ "/team" | relative_url }}">Team</a>
+      <a href="{{ "/projects" | relative_url }}">Projects</a>
+      <a href="{{ "/contact" | relative_url }}">Contact</a>
+    </nav>
 
-@media screen and (max-width: 600px) {
-  .site-header .wrapper {
-    display: block;
-  }
+  </div>
 
-  .site-nav {
-    margin-top: 1rem;
-  }
-
-  .site-nav a {
-    display: block;
-    margin: 0.5rem 0;
-  }
-}
+</header>
