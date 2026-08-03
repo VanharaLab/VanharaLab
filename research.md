@@ -18,4 +18,4 @@ Our research combines advanced microscopy approaches, including super-resolution
 
 
 ## Funding ##
-We are supported by the Czech Health Research Council, the Czech Science Foundation and the IOCB Foundation. 
+We have been supported by Masaryk University, the Czech Health Research Council, the Czech Science Foundation and the IOCB Foundation. 
